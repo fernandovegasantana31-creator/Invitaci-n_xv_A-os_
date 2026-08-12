@@ -3,7 +3,7 @@
 ========================================================= */
 
 /* Número de WhatsApp que recibirá las confirmaciones */
-const numeroWhatsApp = "527298126291";
+const numeroWhatsApp = "525567045290";
 
 
 /* =========================================================
